@@ -9,8 +9,8 @@
 ## 🌟 Projects & Past Work
 
 - <img src="https://www.google.com/s2/favicons?domain=pgdn.music&sz=32" width="16" height="16"> **[page.dwn](https://www.pgdn.music/)** — My EDM music project website
-- <img src="https://www.google.com/s2/favicons?domain=barnyard-blitz.vercel.app&sz=32" width="16" height="16"> **[Barnyard Blitz](https://barnyard-blitz.vercel.app/)** — A friend's political board game lander
 - <img src="https://www.google.com/s2/favicons?domain=emperor.llc&sz=32" width="16" height="16"> **[Emperor Media LLC](https://www.emperor.llc/)** — My former company, now run by a friend
+- <img src="https://www.google.com/s2/favicons?domain=barnyard-blitz.vercel.app&sz=32" width="16" height="16"> **[Barnyard Blitz](https://barnyard-blitz.vercel.app/)** — A friend's political board game lander
 - <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="16" height="16"> **[findcheapflights.net/ai](https://github.com/alex-shapovalov/findcheapflights.net)** — A discontinued AI side project, now a public archive
 
 
