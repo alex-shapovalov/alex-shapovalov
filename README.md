@@ -9,7 +9,7 @@
 - <img src="https://www.google.com/s2/favicons?domain=pgdn.music&sz=32" width="16" height="16"> **[page.dwn](https://www.pgdn.music/)** — My EDM music project website
 - <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="16" height="16"> **[AI Audio Visual Generator](https://github.com/alex-shapovalov/ai-audio-visual-generator)** — An AI-powered music visualization project
 - <img src="https://www.google.com/s2/favicons?domain=emperor.llc&sz=32" width="16" height="16"> **[Emperor Media LLC](https://www.emperor.llc/)** — My former company, now run by a friend
-- <img src="https://barnyard-blitz.vercel.app/favicon.ico" width="16" height="16" alt=""> **[Barnyard Blitz](https://barnyard-blitz.vercel.app/)** — A friend's political board game lander
+- <img src="https://barnyardblitz.net/favicon.ico" width="16" height="16" alt=""> **[Barnyard Blitz](https://barnyardblitz.net/)** — A friend's political board game lander
 - <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="16" height="16"> **[findcheapflights.net/ai](https://github.com/alex-shapovalov/findcheapflights.net)** — A discontinued AI side project, now a public archive
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
